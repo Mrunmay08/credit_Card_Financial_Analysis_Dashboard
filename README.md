@@ -1,8 +1,9 @@
 # credit_Card_Financial_Analysis_Dashboard
 Data Analysis Using SQL and PowerBI
+
 1.Project Objective
 
-To Designed an interactive Power BI dashboard to analyze credit card customer behavior, revenue performance, transaction trends, and demographic segmentation, enabling data-driven business decisions in the financial services domain .
+To Designed an interactive Power BI dashboard to analyze credit card customer behavior, revenue performance, transaction trends, and demographic segmentation,     enabling data-driven business decisions in the financial services domain .
 
 2. Key Insights
 
